@@ -1,1 +1,1 @@
-BASE_URL = "https://api.peslac.com/api/v1"
+BASE_URL = "https://api.peslac.com/v1"
